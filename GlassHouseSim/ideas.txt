@@ -1,0 +1,66 @@
+Randomly Generated
+Companion Character
+Small World
+You Are What You Eat
+
+-----------------------------------------------------
+
+Glasshouse - Small World
+
+Different areas of GH with different mini-games/tasks
+
+Pool
+-> Boss Fight
+
+Darts
+-> Throw Darts -> Affects Stats
+
+Sofas
+-> Obstacle/Avoid thing mini-game
+
+Bar
+-> Papa's pizzaria
+
+Karaeoke
+-> Rhythm Game
+
+----------------------------------------------------
+
+Randomly Generated
+-> Randomly Generate Glasshouse Fries
+-> You are what you eat
+
+-> D2, D6, D10 generation
+-> Based off Alex's GH Menu Thingy
+
+----------------------------------------------------
+
+Companion Character
+
+Different unlockable characters
+-> Goose
+-> Frog
+-> Rabbit
+
+MVP-> Character that follows you
+
+------------------------------------------------------
+
+Todo:
+
+1. Player
+2. Setting - Glasshouse
+	- Collision
+	- Assets (Tables, Sofas, etc.)
+3. Start Pool
+	- Assets (Text popups, Pool Table, Dart-board, etc.)
+	- Action Collision Boxes
+	- Game States for each Mini-Game
+4. Roll for Fries
+	- Dice RNG
+	- Some GUI Shit
+5. V Basic Companion
+	- Walks behind player
+	- Change w/ keys
+6. Sofa Mini-Game
+7. Karaeoke
